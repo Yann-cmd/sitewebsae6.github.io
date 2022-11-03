@@ -69,7 +69,7 @@ h1{
 
 /**body**/
 body {
-	background-image: url('images/background-comparatif.png');
+	background-image: url("images/background-comparatif.png");
 	background-size: cover;
 	background-attachment: fixed;
 	overflow-x: hidden;
