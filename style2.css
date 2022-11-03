@@ -70,7 +70,7 @@
 
 /**Corps du site**/
 body {
-	background-image: url('images/background5.png');
+	background-image: url("images/background5.png");
 	background-size: cover;
 	background-attachment: fixed;
 	overflow-x: hidden;
